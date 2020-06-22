@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bumblybee/React-News/static/css/main.0474df19.chunk.css",
+    "main.js": "/bumblybee/React-News/static/js/main.48377dd2.chunk.js",
+    "main.js.map": "/bumblybee/React-News/static/js/main.48377dd2.chunk.js.map",
+    "runtime-main.js": "/bumblybee/React-News/static/js/runtime-main.12145090.js",
+    "runtime-main.js.map": "/bumblybee/React-News/static/js/runtime-main.12145090.js.map",
+    "static/js/2.2ebcd6c9.chunk.js": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js",
+    "static/js/2.2ebcd6c9.chunk.js.map": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js.map",
+    "index.html": "/bumblybee/React-News/index.html",
+    "precache-manifest.9dedabcddafcaed445013118d168cc26.js": "/bumblybee/React-News/precache-manifest.9dedabcddafcaed445013118d168cc26.js",
+    "service-worker.js": "/bumblybee/React-News/service-worker.js",
+    "static/css/main.0474df19.chunk.css.map": "/bumblybee/React-News/static/css/main.0474df19.chunk.css.map",
+    "static/js/2.2ebcd6c9.chunk.js.LICENSE.txt": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12145090.js",
+    "static/js/2.2ebcd6c9.chunk.js",
+    "static/css/main.0474df19.chunk.css",
+    "static/js/main.48377dd2.chunk.js"
+  ]
+}
