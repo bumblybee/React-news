@@ -1,0 +1,1 @@
+React app showing the latest news.

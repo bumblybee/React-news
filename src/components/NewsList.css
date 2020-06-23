@@ -1,0 +1,19 @@
+.articles {
+	display: flex;
+	flex-wrap: wrap;
+	flex: 1;
+}
+
+.card {
+	width: 200px;
+	height: 360px;
+	overflow-y: auto;
+}
+
+.card h4 {
+	color: #197a81;
+}
+
+.card p {
+	margin-bottom: 1rem;
+}
