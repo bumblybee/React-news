@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/bumblybee/React-News/static/css/main.0474df19.chunk.css",
-    "main.js": "/bumblybee/React-News/static/js/main.48377dd2.chunk.js",
-    "main.js.map": "/bumblybee/React-News/static/js/main.48377dd2.chunk.js.map",
-    "runtime-main.js": "/bumblybee/React-News/static/js/runtime-main.12145090.js",
-    "runtime-main.js.map": "/bumblybee/React-News/static/js/runtime-main.12145090.js.map",
-    "static/js/2.2ebcd6c9.chunk.js": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js",
-    "static/js/2.2ebcd6c9.chunk.js.map": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js.map",
-    "index.html": "/bumblybee/React-News/index.html",
-    "precache-manifest.9dedabcddafcaed445013118d168cc26.js": "/bumblybee/React-News/precache-manifest.9dedabcddafcaed445013118d168cc26.js",
-    "service-worker.js": "/bumblybee/React-News/service-worker.js",
-    "static/css/main.0474df19.chunk.css.map": "/bumblybee/React-News/static/css/main.0474df19.chunk.css.map",
-    "static/js/2.2ebcd6c9.chunk.js.LICENSE.txt": "/bumblybee/React-News/static/js/2.2ebcd6c9.chunk.js.LICENSE.txt"
+    "main.css": "/React-News/static/css/main.0474df19.chunk.css",
+    "main.js": "/React-News/static/js/main.48377dd2.chunk.js",
+    "main.js.map": "/React-News/static/js/main.48377dd2.chunk.js.map",
+    "runtime-main.js": "/React-News/static/js/runtime-main.3f441536.js",
+    "runtime-main.js.map": "/React-News/static/js/runtime-main.3f441536.js.map",
+    "static/js/2.2ebcd6c9.chunk.js": "/React-News/static/js/2.2ebcd6c9.chunk.js",
+    "static/js/2.2ebcd6c9.chunk.js.map": "/React-News/static/js/2.2ebcd6c9.chunk.js.map",
+    "index.html": "/React-News/index.html",
+    "precache-manifest.96f16019949b0972eae7211f3a9a6c9b.js": "/React-News/precache-manifest.96f16019949b0972eae7211f3a9a6c9b.js",
+    "service-worker.js": "/React-News/service-worker.js",
+    "static/css/main.0474df19.chunk.css.map": "/React-News/static/css/main.0474df19.chunk.css.map",
+    "static/js/2.2ebcd6c9.chunk.js.LICENSE.txt": "/React-News/static/js/2.2ebcd6c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.12145090.js",
+    "static/js/runtime-main.3f441536.js",
     "static/js/2.2ebcd6c9.chunk.js",
     "static/css/main.0474df19.chunk.css",
     "static/js/main.48377dd2.chunk.js"
